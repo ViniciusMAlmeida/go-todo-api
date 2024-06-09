@@ -1,8 +1,0 @@
-[api]
-port = "9000"
-
-[database]
-host = "localhost"
-user = "todo-dev"
-pass = "tfsxF&VZuQ3rbPzJ"
-name = "todo-api"
